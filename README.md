@@ -1,6 +1,6 @@
 # Option Pricing and Analysis with Python
 
-![JPM Historical Stock Price](https://images.unsplash.com/photo-1579727249381-aa7e17b90ae5)
+
 
 Options trading has become an integral part of modern finance, offering traders the ability to hedge risk or speculate on the future price movements of assets. At the heart of options trading lies the Black-Scholes model, a mathematical framework for pricing European-style options.
 
